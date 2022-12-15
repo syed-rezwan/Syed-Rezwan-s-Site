@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;  
+}
+.main{
+    background-color: #e8f1ef;
+    text-align: center; 
+    color:#475654;
+}
+.top_container{
+    background-color: #d8e6e3;
+    width: 100%;
+    position: relative;
+    padding-top: 12rem;
+}
+.tcloud{
+    position: absolute;
+    left: 65%;
+    top: 6rem;
+}
+.bcloud{
+    position: absolute;
+    left: 25%;
+    bottom: 19rem;
+}
+.heading_name{
+    font-family: 'Dancing Script', cursive;
+    font-size: 5rem;
+    font-weight: 400;
+    color: #509b9b;
+    padding-bottom: 1.5rem;
+}
+.heading_prof{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #50a0a0;
+    padding-bottom: 1.8rem;
+}
+.middle_container{
+    width: 50%;
+    margin: 0 auto;
+}
+.bottom_container{
+    width: 50%;
+    margin: 0 auto;
+}
+.middle_container img{
+    width: 25%;
+    height: 25%;
+    padding-top: 1.5rem;
+    padding-bottom: 0.2rem;
+}
+.middle_container .profile img{
+    padding-top: 4rem;
+}
+.middle_container{
+    line-height: 2;
+}
+.intro{
+    width: 80%;
+    margin: 0 auto;
+}
+.middle_container .skills p{
+    text-align: left;
+    padding-top: 1.5rem;
+}
+.middle_container h2{
+    font-size: 1.8rem;
+}
+.middle_container h3{
+    font-size: 1.5rem;
+}
+.middle_container .skills h2{
+    padding-top: 1rem;
+}
+.middle_container .imp{
+    font-size: 2.2rem;
+    color: #155f61;
+    padding-bottom: 1.5rem;
+}
+.skills .webd{
+    padding-left: 3rem;
+    float: right;
+}
+.skills .rsp{
+    padding-right: 3rem;
+    float:left;
+}
+.skills div{
+   margin-top: 1.5rem; 
+}
+.contact_me{
+    margin-top: 4rem;
+}
+.contact_me p{
+    padding: 1rem 0 2rem 0;
+    width: 72%;
+    margin: 0 auto;
+}
+hr{
+    width: 6rem;
+    border-style:none;
+    border-top-style: dotted;
+    border-width: 8px;
+    border-color: #cddddd;
+    margin: 4rem auto;
+}
+h2,h3,a{
+    color: #157578;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+p{
+    font-family: 'Merriweather', serif;
+    font-size: 1.1rem;
+    font-weight: 300;
+}
+button{
+    font-family: 'Montserrat', sans-serif;
+    color:#fff;
+    border: 1px solid #438f91;
+    margin: 10px 0;
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    border-radius: 0.2rem;
+    transition: 0.3s;
+    box-shadow: 0 0.5em 0.5em -0.1em #7a7d80;
+    background: #65b0c3;
+    background-image: -webkit-linear-gradient(top, #4d9cb0, #66c1d6);
+    background-image: -moz-linear-gradient(top, #4d9cb0, #6ac6db);
+    background-image: -ms-linear-gradient(top, #4d9cb0, #68c4d8);
+    background-image: -o-linear-gradient(top, #4d9cb0, #65c1d6);
+    background-image: linear-gradient(to bottom, #4d9cb0, #65c2d7);
+    text-decoration: none;
+}
+button:hover{
+    background: #5c9fb0;
+    transform: translate(2%,-2%);
+}
+.bottom_container{
+    margin-top: 3rem;
+    line-height: 2;
+    background-color: #8abcbe;
+    width: 100%;
+    padding: 2rem 0 1rem;
+}
+.bottom_container a{
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: #458686;
+    font-size: 1.2rem;
+    font-weight: 400;
+    padding: 0 1.8rem;
+}
+.bottom_container a:hover{
+    color: #2d5b5b;
+}
+.cpr{
+    color: #EAF6F6;
+    font-size: 0.9rem;
+    padding-top: 0.8rem;
+}
